@@ -55,6 +55,7 @@ on The Apple:
 press a key.  This will read the disk in clocks and send them to the PC.  When
 the Apple is done, it will beep 3 times, and print a hex value. This is the logical
 'OR' or all the secor read results.  If it is 00, then the disk read correctly.
+At this point, the tool starts over again and prints the '?'
 
 on the PC:
 
